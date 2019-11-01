@@ -1,0 +1,9 @@
+*/.nb-gradle/
+*.tmp
+*/build
+*/.gradle
+.classpath
+*/.settings
+*/.vscode
+*/.project
+*/bin
